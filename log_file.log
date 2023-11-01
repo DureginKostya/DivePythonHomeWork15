@@ -1,0 +1,8 @@
+ERROR, 2023-11-01 16:47:03,128, Invalid name: . Name should be a non-empty string.
+INFO, 2023-11-01 16:47:03,128, Class not created
+ERROR, 2023-11-01 16:47:11,635, Invalid age: -5. Age should be a positive integer.
+INFO, 2023-11-01 16:47:11,635, Class not created
+ERROR, 2023-11-01 16:47:19,013, Invalid id: 12345. Id should be a 6-digit positive integer between 100000 and 999999.
+INFO, 2023-11-01 16:47:19,013, Class not created
+INFO, 2023-11-01 16:47:26,834, Created class Person with parameters: Last_name: Alice, First_name: Smith, Patronymic: Johnson, Age: 25.
+INFO, 2023-11-01 16:47:34,092, Created class Employee with parameters: Last_name: Bob, First_name: Johnson, Patronymic: Brown, Age: 40, Id_employee: 123456.
